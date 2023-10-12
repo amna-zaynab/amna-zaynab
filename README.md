@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me 👋
+Amna Zaynab 
+amnazayn20@gmail.com
+
 
 <!--
 **amna-zaynab/amna-zaynab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
