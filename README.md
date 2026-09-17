@@ -1,6 +1,6 @@
 ### About me 👋
 Amna Zaynab 
-amnazayn20@gmail.com
+amnazaynab.s@gmail.com
 
 
 <!--
